@@ -1,0 +1,1 @@
+{"version":3,"file":"amd.d.ts","sourceRoot":"","sources":["../src/foo/bar/bar.ts","../src/foo/bar/index.ts","../src/foo/index.ts","../src/use-bar.ts"],"names":[],"mappings":";IAAA,MAAM,MAAM,KAAK,GAAG;QAAE,GAAG,EAAG;YAAE,GAAG,EAAG,KAAK,CAAA;SAAE,CAAA;KAAE,CAAC;IAC9C,MAAM,UAAU,OAAO,IAAM,KAAK,CAEjC;;;ICHD,4BAAsB;;;ICAtB,8BAAsB;;;ICEtB,MAAM,CAAC,MAAM,GAAG,qBAAY,CAAC"}

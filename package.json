@@ -1,0 +1,15 @@
+{
+  "name": "amd-module-does-not-exist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-amd": "(rm -r ./dist || true) && (tsc -m amd -outFile dist/amd.js)"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  }
+}

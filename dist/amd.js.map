@@ -1,0 +1,1 @@
+{"version":3,"file":"amd.js","sourceRoot":"","sources":["../src/foo/bar/bar.ts","../src/foo/bar/index.ts","../src/foo/index.ts","../src/use-bar.ts"],"names":[],"mappings":";;;IACA,SAAgB,OAAO;QACnB,OAAO,EAAE,GAAG,EAAG,EAAE,GAAG,EAAG,KAAK,EAAE,EAAE,CAAC;IACrC,CAAC;IAFD,0BAEC;;;;;;;;ICHD,gBAAsB;;;;;;;;ICAtB,gBAAsB;;;;;ICET,QAAA,GAAG,GAAG,aAAO,EAAE,CAAC"}
